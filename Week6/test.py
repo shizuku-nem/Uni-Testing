@@ -31,15 +31,3 @@ class TestStringMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)
-
-
-    # class Drink():
-    # name: str
-    # price: int
-    # type: int
-
-
-    # def __init__(self,name = "", price = 0,type = 0):
-    #     self.name = name
-    #     self.price = price
-    #     self.type = type
